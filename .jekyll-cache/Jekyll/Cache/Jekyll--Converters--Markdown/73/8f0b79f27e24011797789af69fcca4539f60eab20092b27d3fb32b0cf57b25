@@ -1,6 +1,0 @@
-I"Á<p><em>tufte-css-jekyll</em> is a theme based on <a href="https://github.com/edwardtufte/tufte-css"><em>tufte-css</em></a>, which in turn implements the design ideas of Edward Tufte in CSS, and <a href="https://github.com/clayh53/tufte-jekyll"><em>tufte-jekyll</em></a> (but tries to stick more closely to the original tufte-css styles than the latter).</p>
-
-<p>Note that this is a full-width layout. This was accomplished by including <code class="language-plaintext highlighter-rouge">layout: full-width</code> in the YAML front matter for this page, i.e., no sidenotes or marginnotes!</p>
-
-<p>If you want to know what Tufte style comprises, have a look at the <a href="./page/">Tufte CSS</a> page.</p>
-:ET
