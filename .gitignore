@@ -1,7 +1,7 @@
 *.gem
 .bundle
 .sass-cache
-_site
+#_site
 Gemfile.lock
 .rake_tasks~
 
@@ -10,7 +10,7 @@ Gemfile.lock
 # Edit at https://www.toptal.com/developers/gitignore?templates=jekyll,ruby,python
 
 ### Jekyll ###
-_site/
+#_site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
